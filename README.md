@@ -12,7 +12,7 @@ User can:
 
 ## Draw on canvas
 
-[Click here to start drawing.]( ... )
+[Click here to start drawing.](https://marcinmrow.github.io/Pixel-Art-Maker/)
 
 ## Dependencies
 
